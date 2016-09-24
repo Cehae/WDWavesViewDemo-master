@@ -76,4 +76,6 @@ Layer.fillColor = self.realWaveColor.CGColor;//填充颜色
 }
 ```
 ##### 3.效果图：
-![这里写图片描述](http://img.blog.csdn.net/20160925001825048)
+![波浪view](http://img.blog.csdn.net/20160925001825048)
+##### 4.相关博客：
+[我的博客](http://blog.csdn.net/cehae/article/details/52655118)
